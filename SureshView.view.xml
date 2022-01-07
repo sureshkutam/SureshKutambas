@@ -1,0 +1,13 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="InningsSummary.inningsummary.controller.SureshView" displayBlock="true">
+    <Shell id="shell">
+        <App id="app">
+            <pages>
+                <Page id="page" title="Match Summary">
+                    <content>
+                        <Label text="Score card" width="100%" id="label0"/><Button xmlns="sap.m" text="Click Me" id="button0" tooltip="Click Here"/>
+                    </content>
+                </Page>
+            </pages>
+        </App>
+    </Shell>
+</mvc:View>
